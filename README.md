@@ -9,9 +9,8 @@ O aplicativo permite ao usuário gerenciar suas atividades diárias, implementan
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9bc27783-7c97-4635-8142-81a840c06d34" alt="Imagem 1" width="30%">
   <img src="https://github.com/user-attachments/assets/115595eb-32d7-4fbd-9406-2a5056f3656c" alt="Imagem 2" width="30%">
-  <img src="https://github.com/user-attachments/assets/6ce379f6-3750-416e-8bcd-b488f15e2cd6" alt="Imagem 3" width="30%">
+  <img src="https://github.com/user-attachments/assets/531a4180-768d-4307-9ed9-05df05b4c0a2" alt="Imagem 3" width="30%">
 </p>
-
 
 ## Funcionalidades
 
